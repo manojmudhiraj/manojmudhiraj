@@ -3,7 +3,7 @@
 [![YouTube Badge](https://img.shields.io/badge/YouTube-Hackerbuddy-red)](https://youtube.com/channel/UCi8m6XBPbGqk7Te1rPTcq4g)
 [![Linkedin Badge](https://img.shields.io/badge/-Manoj-blue?style=flat-square&logo=Linkedin&logoColor=white&link=https://www.linkedin.com/in/dheli-manoj-kumar-28a698200/)](https://www.linkedin.com/in/dheli-manoj-kumar-28a698200/)
 [![Website Badge](https://img.shields.io/badge/WebSite-Manoj-green)](https://www.akash)
-[![Website Badge](https://img.shields.io/badge/StackOverflow-Manoj-yellow)](https://stackoverflow.com/users/3687251/aakash-)
+[![Website Badge](https://img.shields.io/badge/StackOverflow-Manoj-yellow)](https://stackoverflow.com/users/10265523/manoj-kumar?tab=profile)
 
 I'm
 Full Stack Developer 
