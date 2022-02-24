@@ -1,9 +1,9 @@
 ### Hi Developers 👋
 
-[![YouTube Badge](https://img.shields.io/badge/YouTube-DeveloperFunnel-red)](https://www.youtube.com/developerfunnel)
-[![Linkedin Badge](https://img.shields.io/badge/-Aakash-blue?style=flat-square&logo=Linkedin&logoColor=white&link=https://www.linkedin.com/in/aakash--01629954/)](https://www.linkedin.com/in/aakash--01629954/)
-[![Website Badge](https://img.shields.io/badge/WebSite-Aakash-green)](https://www.akash)
-[![Website Badge](https://img.shields.io/badge/StackOverflow-Aakash-yellow)](https://stackoverflow.com/users/3687251/aakash-)
+[![YouTube Badge](https://img.shields.io/badge/YouTube-DeveloperFunnel-red)](https://youtube.com/channel/UCi8m6XBPbGqk7Te1rPTcq4g)
+[![Linkedin Badge](https://img.shields.io/badge/-Manoj-blue?style=flat-square&logo=Linkedin&logoColor=white&link=https://www.linkedin.com/in/dheli-manoj-kumar-28a698200/)](https://www.linkedin.com/in/dheli-manoj-kumar-28a698200/)
+[![Website Badge](https://img.shields.io/badge/WebSite-Manoj-green)](https://www.akash)
+[![Website Badge](https://img.shields.io/badge/StackOverflow-Manoj-yellow)](https://stackoverflow.com/users/3687251/aakash-)
 
 I'm
 Full Stack Developer 
